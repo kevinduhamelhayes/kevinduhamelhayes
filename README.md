@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **kevinduhamelhayes/kevinduhamelhayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+{
+  "functions": {
+    "api/*.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
+    }
+  ]
+}
