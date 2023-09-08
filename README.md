@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Duhamel</h1>
+<h2 align="center">Eager to tackle any coding challenge that comes my way. Passionate about learning and ready to contribute</h2>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=kevinduhamelhayes&label=Profile%20views&color=0e75b6&style=flat" alt="kevinduhamelhayes" /> 
 </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & COBOL**
 - 👯 I’m looking to collaborate on [Devink](https://www.devink.dev/)
 - 💬 Ask me about **React, JavaScript, Python, HTML, CSS**
 - 📫 How to reach me: **kevinduhamelh@gmail.com**
