@@ -7,9 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=kevinduhamelhayes&label=Profile%20views&color=0e75b6&style=flat" alt="kevinduhamelhayes" /> 
 </p>
 
-- 🌱 I’m currently learning **Typescript & COBOL**
+- 🌱 I’m currently learning **Typescript & nextJS V14**
 - 👯 I’m looking to collaborate on [Devink](https://www.devink.dev/)
-- 💬 Ask me about **React, JavaScript, Python, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 - 📫 How to reach me: **kevinduhamelh@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
