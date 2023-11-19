@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript & nextJS V14**
 - 👯 I’m looking to collaborate on [Devink](https://www.devink.dev/)
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, nextjs14,13,12**
 - 📫 How to reach me: **kevinduhamelh@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
