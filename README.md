@@ -1,15 +1,22 @@
 <h1 align="center">Hi there! 👋 I'm Kevin Duhamel</h1>
 <h2 align="center">Passionate Fullstack Developer from Argentina</h2>
-<h3 align="center">Eager to tackle coding challenges and always ready to learn and contribute</h3>
+<h3 align="center">Always learning, always growing</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kevinduhamelhayes&label=Profile%20views&color=0e75b6&style=flat" alt="kevinduhamelhayes" />
 </p>
 
-- 🌱 Currently diving into **Typescript & Next.js v14**
-- 👯 Looking for collaborators on [Devink](https://www.devink.dev/)
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Next.js (v14, v13, v12)**
-- 📫 Reach out to me: **kevinduhamelh@gmail.com**
+- 🌱 Currently diving into **Typescript & Next.js v14**.
+- 👯 Looking for collaborators on projects at [Devink](https://www.devink.dev/).
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Next.js (v14, v13, v12)**.
+- 📫 You can reach out to me at: **kevinduhamelh@gmail.com**.
+
+- 📚 I am in a constant state of learning. Even though the tech world never stops advancing, I make a continuous effort to update my skills and expand my knowledge.
+- 💻 My main focus is on **JavaScript** and its full suite: **Next.js, Node.js, and Tailwind CSS**. I also have experience with **Python** and tools like **Selenium, TensorFlow, Django, and Flask**.
+- 🌍 I am proficient in English and experienced in working with **Scrum** and **Agile** methodologies.
+- 🔄 I'm open to general tasks in other programming languages and enjoy adapting to different challenges.
+- 🤝 I take pleasure in contributing and helping friends whenever they need a hand.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
